@@ -116,7 +116,7 @@ if __name__ == "__main__":
             speak("ERP is opened")
 
         elif 'open whatsapp' in query:
-            webbrowser.open("C:\\Users\\asus\\OneDrive\\Desktop\\WhatsApp Web.lnk")
+            webbrowser.open("")
             speak("whatsapp is opened")
 
         elif 'open typing master' in query:
@@ -153,7 +153,7 @@ if __name__ == "__main__":
             speak('my pleasure sir !!have a nice day !!! ')
 
     
-
+# in working
         # elif 'email to ankit' in query:
         #     try:
         #         speak("What should I say?")
